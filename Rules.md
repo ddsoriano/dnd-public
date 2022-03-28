@@ -1,7 +1,7 @@
 # Character Creation
 - Theme: "Play as yourself." You can interpret this whichever way you'd like, but your real name will be your character's name in this one-shot.
 - Level 17, point buy, feats are allowed
-- Class and race: no homebrew, official sources only up to SCC (most recent), TCE optional rules apply.
+- Class and race: no homebrew, official sources only up to SCC, and TCE optional rules apply.
 - Background: all sources, homebrew and official
 - No starting equipment, wealth is: 22,500gp + maximum wealth of base class plus one very rare item (check [here](https://docs.google.com/spreadsheets/d/15M2iALCDVNVZhqjDVX0FJZj1vQRqYXW_9E169s9kJ3U/edit#gid=0))
 - No firearms
