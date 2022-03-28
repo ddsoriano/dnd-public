@@ -19,3 +19,4 @@
 # Gameplay
 - We will be running the game on FoundryVTT and not Roll20. Details regarding this will follow.
 - Schedule: April 16 (Saturday), 8PM PHT. We will probably end around 1AM PHT.
+- **Submit your character sheets by April 9 so I can set it up on FoundryVTT.**
