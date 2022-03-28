@@ -16,3 +16,6 @@
 - Spellcasters can only use spell scrolls that are part of their class' spell list.
 - REMEMBER THAT YOU CAN ONLY BE ATTUNED TO 3 ITEMS AT A TIME. Attunement to an item requires 1 hour, but you can be already attuned to your items before the start of the one-shot.
 
+# Gameplay
+- We will be running the game on FoundryVTT and not Roll20. Details regarding this will follow.
+- Schedule: April 16 (Saturday), 8PM PHT. We will probably end around 1AM PHT.
