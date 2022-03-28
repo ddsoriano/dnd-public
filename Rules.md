@@ -5,7 +5,7 @@
 - Background: all sources, homebrew and official
 - No starting equipment, wealth is: 22,500gp + maximum wealth of base class plus one very rare item (check [here](https://docs.google.com/spreadsheets/d/15M2iALCDVNVZhqjDVX0FJZj1vQRqYXW_9E169s9kJ3U/edit#gid=0))
 - No firearms
-- Recommended character creation tool: [DiceCloud](dicecloud.com)
+- Recommended character creation tool: [DiceCloud](dicecloud.com). This is more tedious than Dungeon Master's Vault, but this will help you familiarize with the general rules of DnD 5e better.
 
 ## Equipment and Magic Items
 - Buy your items [here](https://docs.google.com/spreadsheets/d/15M2iALCDVNVZhqjDVX0FJZj1vQRqYXW_9E169s9kJ3U/edit#gid=0). This includes new items from SCC and TCE. Also, note that most prices here are different from the Sane Magical Prices PDF we've used in the past.
