@@ -112,6 +112,10 @@
     "value": "true"
   },
   {
+    "key": "midi-qol.LateTargeting",
+    "value": "true"
+  },
+  {
     "key": "midi-qol.notificationVersion",
     "value": "\"0.9.44\""
   },
@@ -137,7 +141,7 @@
   },
   {
     "key": "simplemobile.lasttoken",
-    "value": "\"1\""
+    "value": "\"2\""
   },
   {
     "key": "simplemobile.performanceop",
