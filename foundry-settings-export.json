@@ -1,0 +1,558 @@
+[
+  {
+    "key": "core.globalInterfaceVolume",
+    "value": "0.7155417527999328"
+  },
+  {
+    "key": "core.globalPlaylistVolume",
+    "value": "0.4078909167902615"
+  },
+  {
+    "key": "core.performanceMode",
+    "value": "2"
+  },
+  {
+    "key": "core.time",
+    "value": "6"
+  },
+  {
+    "key": "dae.ArmorDisabled",
+    "value": "1"
+  },
+  {
+    "key": "df-manual-rolls.flagged",
+    "value": "true"
+  },
+  {
+    "key": "df-manual-rolls.gm",
+    "value": "\"toggle\""
+  },
+  {
+    "key": "df-manual-rolls.pc",
+    "value": "\"toggle\""
+  },
+  {
+    "key": "dice-so-nice.formatVersion",
+    "value": "\"4.1\""
+  },
+  {
+    "key": "dice-so-nice.showGhostDice",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.disableExperienceTracking",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.initiativeDexTiebreaker",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.systemMigrationVersion",
+    "value": "\"1.5.6\""
+  },
+  {
+    "key": "drag-ruler.autoPathfinding",
+    "value": "false"
+  },
+  {
+    "key": "drag-ruler.clientDataVersion",
+    "value": "\"1.10.0\""
+  },
+  {
+    "key": "drag-ruler.dataVersion",
+    "value": "\"1.10.0\""
+  },
+  {
+    "key": "drag-ruler.rightClickAction",
+    "value": "0"
+  },
+  {
+    "key": "midi-qol.ColoredBorders",
+    "value": "\"none\""
+  },
+  {
+    "key": "midi-qol.ConfigSettings",
+    "value": "{\"gmAutoAttack\":false,\"gmAutoFastForwardAttack\":false,\"gmAutoDamage\":\"none\",\"gmAutoFastForwardDamage\":false,\"gmFastForwardSpells\":false,\"gmHide3dDice\":false,\"ghostRolls\":true,\"speedItemRolls\":false,\"speedAbilityRolls\":false,\"showItemDetails\":\"none\",\"itemTypeList\":[\"weapon\",\"equipment\",\"consumable\",\"tool\",\"loot\",\"class\",\"spell\",\"feat\",\"backpack\"],\"autoRollAttack\":false,\"autoFastForward\":\"off\",\"fastForwardSpells\":false,\"autoTarget\":\"wallsBlockIgnoreDefeated\",\"autoCheckHit\":\"whisper\",\"autoCheckSaves\":\"none\",\"hideRollDetails\":\"all\",\"displaySaveDC\":true,\"checkSaveText\":false,\"defaultSaveMult\":0.5,\"autoRollDamage\":\"none\",\"autoApplyDamage\":\"yesCard\",\"damageImmunities\":\"immunityPhysical\",\"requireMagical\":false,\"autoCEEffects\":false,\"rangeTarget\":\"none\",\"playerRollSaves\":\"chat\",\"playerSaveTimeout\":0,\"reactionTimeout\":10,\"gmDoReactions\":\"all\",\"doReactions\":\"all\",\"showReactionChatMessage\":false,\"showReactionAttackRoll\":\"all\",\"rollNPCSaves\":\"auto\",\"rollNPCLinkedSaves\":\"auto\",\"mergeCard\":false,\"mergeCardCondensed\":false,\"useTokenNames\":false,\"requiresTargets\":\"none\",\"fumbleSound\":\"\",\"diceSound\":\"\",\"criticalSound\":\"\",\"itemUseSound\":\"\",\"spellUseSound\":\"\",\"weaponUseSound\":\"\",\"potionUseSound\":\"\",\"fullAuto\":false,\"useCustomSounds\":true,\"customSoundsPlaylist\":\"jiznbgzvJfJucBH8\",\"keyMapping\":{\"DND5E.Advantage\":\"altKey\"},\"allowUseMacro\":true,\"rollOtherDamage\":\"none\",\"rollOtherSpellDamage\":\"none\",\"removeButtons\":\"all\",\"gmRemoveButtons\":\"all\",\"concentrationAutomation\":true,\"singleConcentrationRoll\":true,\"removeConcentration\":true,\"optionalRulesEnabled\":true,\"itemRollStartWorkflow\":false,\"usePlayerPortrait\":false,\"promptDamageRoll\":false,\"accelKeysOverride\":false,\"effectActivation\":false,\"enableddbGL\":false,\"optionalRules\":{\"invisAdvantage\":true,\"checkRange\":true,\"wallsBlockRange\":\"center\",\"nearbyFoe\":5,\"nearbyAllyRanged\":4,\"incapacitated\":true,\"removeHiddenInvis\":true,\"maxDRValue\":false,\"distanceIncludesHeight\":false,\"criticalSaves\":false,\"activeDefence\":false,\"challengModeArmor\":false,\"challengeModeArmor\":false,\"challengeModeArmorScale\":false,\"enableddbGL\":false},\"keepRollStats\":false,\"saveStatsEvery\":20,\"playerStatsOnly\":false,\"autoItemEffects\":true,\"soptionalRulesEnabled\":true,\"gmConsumeResource\":false,\"consumeResource\":false,\"gmLateTargeting\":false,\"lateTargeting\":false}"
+  },
+  {
+    "key": "midi-qol.CriticalDamage",
+    "value": "\"default\""
+  },
+  {
+    "key": "midi-qol.Debug",
+    "value": "\"none\""
+  },
+  {
+    "key": "midi-qol.DragDropTarget",
+    "value": "true"
+  },
+  {
+    "key": "midi-qol.notificationVersion",
+    "value": "\"0.9.44\""
+  },
+  {
+    "key": "midi-qol.showGM",
+    "value": "true"
+  },
+  {
+    "key": "pings.image",
+    "value": "null"
+  },
+  {
+    "key": "pings.key",
+    "value": "null"
+  },
+  {
+    "key": "pings.keyMove",
+    "value": "null"
+  },
+  {
+    "key": "pings.lastVersion",
+    "value": "\"1.2.2\""
+  },
+  {
+    "key": "simplemobile.lasttoken",
+    "value": "\"3\""
+  },
+  {
+    "key": "simplemobile.performanceop",
+    "value": "true"
+  },
+  {
+    "key": "zoom-pan-options.middle-mouse-pan",
+    "value": "true"
+  },
+  {
+    "name": "Gamemaster",
+    "core": {
+      "color": "#97cc28",
+      "permissions": {},
+      "role": 4
+    },
+    "flags": {
+      "dice-so-nice": {
+        "welcomeMessageShown": true,
+        "settings": {
+          "enabled": true,
+          "showExtraDice": false,
+          "hideAfterRoll": true,
+          "timeBeforeHide": "2000",
+          "hideFX": "fadeOut",
+          "autoscale": true,
+          "scale": 75,
+          "speed": "1",
+          "shadowQuality": "none",
+          "bumpMapping": false,
+          "sounds": true,
+          "soundsSurface": "felt",
+          "soundsVolume": 0.5,
+          "canvasZIndex": "over",
+          "throwingForce": "medium",
+          "useHighDPI": false,
+          "showOthersSFX": true,
+          "muteSoundSecretRolls": false,
+          "enableFlavorColorset": true
+        },
+        "appearance": {
+          "global": {
+            "labelColor": "#000000",
+            "diceColor": "#3660dd",
+            "outlineColor": "#072788",
+            "edgeColor": "#072788",
+            "texture": "cloudy_2",
+            "material": "auto",
+            "font": "auto",
+            "colorset": "custom",
+            "system": "foundry_vtt"
+          }
+        }
+      },
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          },
+          "spells": {
+            "title": "Spells",
+            "id": "spells",
+            "push": false,
+            "core": true
+          }
+        }
+      },
+      "world": {
+        "simpleMobile": false
+      }
+    }
+  },
+  {
+    "name": "Aquil'us",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#9d28cc",
+      "permissions": {},
+      "role": 2
+    },
+    "flags": {
+      "world": {
+        "simpleMobile": false
+      },
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "spells": {
+            "title": "Spells",
+            "id": "spells",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          }
+        },
+        "hudPos": {
+          "top": 93,
+          "left": 189
+        }
+      },
+      "dice-so-nice": {
+        "welcomeMessageShown": true
+      }
+    }
+  },
+  {
+    "name": "Granny",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#28cca3",
+      "permissions": {},
+      "role": 1
+    },
+    "flags": {
+      "dice-so-nice": {
+        "welcomeMessageShown": true
+      },
+      "world": {
+        "simpleMobile": true
+      },
+      "token-action-hud": {
+        "categories": {
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          },
+          "spells": {
+            "title": "Spells",
+            "id": "spells",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          }
+        },
+        "hudPos": {
+          "top": 85,
+          "left": 155
+        }
+      }
+    }
+  },
+  {
+    "name": "Han",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#ff9500",
+      "permissions": {},
+      "role": 1
+    },
+    "flags": {
+      "world": {
+        "simpleMobile": false
+      },
+      "dice-so-nice": {
+        "welcomeMessageShown": true,
+        "settings": {
+          "enabled": true,
+          "showExtraDice": false,
+          "hideAfterRoll": true,
+          "timeBeforeHide": "2000",
+          "hideFX": "fadeOut",
+          "autoscale": true,
+          "scale": 75,
+          "speed": "1",
+          "shadowQuality": "high",
+          "bumpMapping": true,
+          "sounds": true,
+          "soundsSurface": "felt",
+          "soundsVolume": 0.5,
+          "canvasZIndex": "over",
+          "throwingForce": "medium",
+          "useHighDPI": true,
+          "showOthersSFX": true,
+          "muteSoundSecretRolls": false,
+          "enableFlavorColorset": true
+        },
+        "appearance": {
+          "global": {
+            "labelColor": "#000000",
+            "diceColor": "#ff9500",
+            "outlineColor": "#ff9500",
+            "edgeColor": "#ff9500",
+            "texture": "metal",
+            "material": "metal",
+            "font": "Trebuchet MS",
+            "colorset": "ice",
+            "system": "standard"
+          }
+        }
+      },
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "Zel",
+    "core": {
+      "avatar": "icons/svg/mystery-man.svg",
+      "color": "#ff0088",
+      "permissions": {},
+      "role": 1
+    },
+    "flags": {
+      "world": {
+        "simpleMobile": false
+      },
+      "dice-so-nice": {
+        "welcomeMessageShown": true
+      },
+      "token-action-hud": {
+        "categories": {
+          "inventory": {
+            "title": "Inventory",
+            "id": "inventory",
+            "push": false,
+            "core": true
+          },
+          "feats": {
+            "title": "Features",
+            "id": "feats",
+            "push": false,
+            "core": true
+          },
+          "skills": {
+            "title": "Skills",
+            "id": "skills",
+            "push": false,
+            "core": true
+          },
+          "saves": {
+            "title": "Saves",
+            "id": "saves",
+            "push": false,
+            "core": true
+          },
+          "checks": {
+            "title": "Checks",
+            "id": "checks",
+            "push": false,
+            "core": true
+          },
+          "effects": {
+            "title": "Effects",
+            "id": "effects",
+            "push": false,
+            "core": true
+          },
+          "conditions": {
+            "title": "Conditions",
+            "id": "conditions",
+            "push": false,
+            "core": true
+          },
+          "utility": {
+            "title": "Utility",
+            "id": "utility",
+            "push": false,
+            "core": true
+          }
+        }
+      }
+    }
+  }
+]
