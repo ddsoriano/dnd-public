@@ -32,6 +32,22 @@
     "value": "\"toggle\""
   },
   {
+    "key": "df-manual-rolls.toggled",
+    "value": "true"
+  },
+  {
+    "key": "df-templates.SnapIntersect",
+    "value": "true"
+  },
+  {
+    "key": "df-templates.template-config",
+    "value": "{\"circle\":\"center\",\"cone\":\"touch\",\"rect\":\"touch\",\"ray\":\"touch\"}"
+  },
+  {
+    "key": "df-templates.template-targeting",
+    "value": "\"always\""
+  },
+  {
     "key": "dice-so-nice.formatVersion",
     "value": "\"4.1\""
   },
@@ -121,7 +137,7 @@
   },
   {
     "key": "simplemobile.lasttoken",
-    "value": "\"4\""
+    "value": "\"1\""
   },
   {
     "key": "simplemobile.performanceop",
