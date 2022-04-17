@@ -68,6 +68,14 @@
     "value": "0"
   },
   {
+    "key": "fxmaster.clientMigration",
+    "value": "1"
+  },
+  {
+    "key": "fxmaster.migration",
+    "value": "2"
+  },
+  {
     "key": "midi-qol.ColoredBorders",
     "value": "\"none\""
   },
@@ -113,7 +121,7 @@
   },
   {
     "key": "simplemobile.lasttoken",
-    "value": "\"3\""
+    "value": "\"4\""
   },
   {
     "key": "simplemobile.performanceop",
